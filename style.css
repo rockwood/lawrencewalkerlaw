@@ -101,17 +101,18 @@ a:hover {
 
 #navigation a {
     color: white;
-    font-size: 1.5rem;
-    text-decoration: underline;
+    font-size: 1.1rem;
+    text-decoration: none;
     display: inline-block;
 }
 
 #navigation a:hover {
     color: #e0e0e0;
+    text-decoration: underline;
 }
 
 #navigation li.current a {
-    font-weight: bold;
+    text-decoration: underline;
 }
 
 /* Content Wrapper */
