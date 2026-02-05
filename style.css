@@ -46,7 +46,7 @@ a:hover {
 }
 
 #header-title h1 {
-    font-size: 2rem;
+    font-size: 28px;
     font-weight: 400;
     margin: 0;
 }
@@ -58,12 +58,12 @@ a:hover {
 
 #header-title .separator {
     color: white;
-    font-size: 2rem;
+    font-size: 28px;
     font-weight: 300;
 }
 
 #header-title #tagline {
-    font-size: 1.3rem;
+    font-size: 14px;
     font-style: italic;
     color: white;
 }
