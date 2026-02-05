@@ -175,73 +175,11 @@ a:hover {
     font-weight: bold;
 }
 
-/* Search Widget */
-.search-widget form {
-    display: flex;
-    gap: 5px;
-}
-
-.search-widget input[type="text"] {
-    flex: 1;
-    padding: 8px;
-    border: 1px solid #ccc;
-    font-family: Georgia, serif;
-    font-size: 0.9rem;
-}
-
-.search-widget button {
-    padding: 8px 15px;
-    background: #f0f0f0;
-    border: 1px solid #ccc;
-    cursor: pointer;
-    font-family: Georgia, serif;
-    font-size: 0.9rem;
-}
-
-.search-widget button:hover {
-    background: #e0e0e0;
-}
-
 /* Contact Widget */
 .contact-widget p {
     font-size: 0.9rem;
     line-height: 1.8;
     color: #333;
-}
-
-/* Calendar Widget */
-.calendar-widget h3 {
-    text-align: center;
-    font-size: 1rem;
-}
-
-.calendar {
-    width: 100%;
-    border-collapse: collapse;
-    font-size: 0.85rem;
-}
-
-.calendar th,
-.calendar td {
-    text-align: center;
-    padding: 5px;
-    color: #666;
-}
-
-.calendar th {
-    font-weight: bold;
-    border-bottom: 1px solid #ddd;
-    padding-bottom: 8px;
-}
-
-.calendar td {
-    border: none;
-}
-
-.calendar td.today {
-    background: #8b94a1;
-    color: white;
-    font-weight: bold;
 }
 
 /* Responsive Design */
